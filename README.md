@@ -1,0 +1,2 @@
+# aramRP
+Study Git Bash
